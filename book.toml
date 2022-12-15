@@ -1,6 +1,6 @@
 [book]
 authors = ["Suhrob"]
-language = "en"
+language = "uz"
 multilingual = false
 src = "src"
 title = "Rust dasturlash tili"
