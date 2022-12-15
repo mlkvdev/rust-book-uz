@@ -10,3 +10,4 @@
     - [O'rnatish](ch01-01-installation.md)
     - [Salom, Dunyo!](ch01-02-hello-world.md)
     - [Salom, Cargo!](ch01-03-hello-cargo.md)
+- [Tasodifiy sonni topish o'yinini dasturlash](ch02-00-guessing-game-tutorial.md)
